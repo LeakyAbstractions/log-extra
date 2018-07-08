@@ -4,8 +4,8 @@
  *
  * SQLite appender header file
  *
- * @version     1.0.0
- * @author      Copyright (c) 2017 Guillermo Calvo
+ * @version     1.0.0.0
+ * @author      Copyright (c) 2018 Guillermo Calvo
  *
  */
 

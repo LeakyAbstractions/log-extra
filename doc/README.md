@@ -9,10 +9,12 @@ This repository contains some standard logging levels, appenders, layouts, forma
 used (together with [**log**](https://github.com/LeakyAbstractions/log)) to deliver logging events to files and other
 destinations.
 
+> This software adheres to [Pragmatic Versioning](https://pragver.github.io/).
+
 
 ## Author
 
-Copyright 2017 [Guillermo Calvo](https://github.com/guillermocalvo)
+Copyright 2018 [Guillermo Calvo](https://github.com/guillermocalvo)
 
 [![](https://resume.guillermo.in/assets/images/thumb.png)](https://guillermo.in/)
 
