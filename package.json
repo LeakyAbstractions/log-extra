@@ -1,0 +1,33 @@
+{
+  "name":           "log-extra",
+  "version":        "1.0.0.0",
+  "description":    "Expansion for: log, a tiny C logging library",
+  "repo":           "LeakyAbstractions/log-extra",
+  "license":        "LGPL",
+  "install":        "sh DEPENDENCIES && sh INSTALL",
+  "src": [
+    "src/append/a_file.c",
+    "src/append/a_file.h",
+    "src/append/a_rolling.c",
+    "src/append/a_rolling.h",
+    "src/append/a_sqlite.c",
+    "src/append/a_sqlite.h",
+    "src/append/a_std.c",
+    "src/append/a_std.h",
+    "src/format/f_loglevel.c",
+    "src/format/f_loglevel.h",
+    "src/layout/l_plain.c",
+    "src/layout/l_plain.h",
+    "src/loglevel.ansi.h",
+    "src/loglevel.h"
+  ],
+  "keywords": [
+    "logging",
+    "library",
+    "c",
+    "log"
+  ],
+  "dependencies": {
+    "LeakyAbstractions/log": "*"
+  }
+}
